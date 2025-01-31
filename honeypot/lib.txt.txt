@@ -1,0 +1,16 @@
+(base language python)
+1>pip import:
+   dash
+   dash_bootstrap_component
+   dash_bootstrap_templates
+   flask
+   pandas
+   paramiko
+   plotly
+   python-dotenv
+   requests
+2>standard:
+   threading
+   time 
+    os
+   
